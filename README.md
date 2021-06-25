@@ -1,1 +1,1 @@
-# Calculator-And-Stuff
+Here is some random nonsense I made in July-August-September 2020, couple of months into learning python. The "advanced calculator" is just a normal calculator with cubing, that I haven't even, and can't be bothered to test. The CMD python thing was just something I did because i was bored. and the converter is a real project that i did on my own, without youtube.
