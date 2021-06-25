@@ -9,16 +9,19 @@ def add():
     number2 = input("input another number: ")
     result1 = float(number1) + float(number2)
     print(result1)
+    a=input("Press enter to exit: ")
 def minus():
     number3 = input("input a number: ")
     number4 = input("input another number: ")
     result2 = float(number3) - float(number4)
     print(result2)
+    b=input("Press enter to exit: ")
 def multiply():
     number5 = input("input a number: ")
     number6 = input("input another number: ")
     result3 = float(number5) * float(number6)
     print(result3)
+    c=input("Press enter to exit: ")
 def divide():
     number7 = input("input a number: ")
     number8 = input("input another number: ")
@@ -28,6 +31,7 @@ def cube():
     number9 = input("input a number: ")
     result5 = float(number9) * float(number9) * float(number9)
     print(result5)
+    d=input("Press enter to exit: ")
 
 if choice == "1":
     add()
